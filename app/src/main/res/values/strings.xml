@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EjemploAndroid2</string>
+    <string name="string_superpuesto">El view que contiene este String se sobrepondrá en la siguiente view...........</string>
+    <string name="string_encajado">Este string se quedará encajad.....................</string>
+
+</resources>
